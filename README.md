@@ -17,3 +17,7 @@ I've built a fun Guess the Number game where you challenge the computer—let's 
 <h2>Project-04: Rock, paper, scissors Game</h2> 
 https://colab.research.google.com/drive/1ph40Rv80-XslgweHePg9NgXYuTD1Wwy6?usp=sharing </br>
 I've created a classic Rock, Paper, Scissors game—simple, fun, and ready for a challenge!✊📄✂️</br></br>
+
+<h2>Project-05: Hangman Game</h2> 
+https://colab.research.google.com/drive/1Vt1Vnt3kDnlmfLAdEsuBSXuEAs4Hycn_?usp=sharing </br>
+Guess the hidden word before you run out of chances!🔤</br></br>
