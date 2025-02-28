@@ -21,3 +21,11 @@ I've created a classic Rock, Paper, Scissors game—simple, fun, and ready for a
 <h2>Project-05: Hangman Game</h2> 
 https://colab.research.google.com/drive/1Vt1Vnt3kDnlmfLAdEsuBSXuEAs4Hycn_?usp=sharing </br>
 Guess the hidden word before you run out of chances!🔤</br></br>
+
+<h2>Project-06: Countdown-Timer</h2> 
+https://colab.research.google.com/drive/109blsaAuFPXX1pTTxFhQA4oDSbKX9mAb?usp=sharing </br>
+A dynamic countdown timer with pause, resume, reset, and quit options for full control!⏳</br></br>
+
+<h2>Project-07: Password-Generator</h2> 
+https://colab.research.google.com/drive/1AuXUGdGfCw8tv4dUdxqP-waOnc6_G9jG?usp=sharing</br>
+This generates a random 12-character password including letters, digits, and special characters. </br></br>
